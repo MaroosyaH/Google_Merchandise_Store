@@ -1,5 +1,5 @@
 # Google_Merchandise_Store
-Аналитика данных демо аккаунта Google Merchandise Store за Январь-Апрель 2017
+Итоговый проект SkillFactory. Аналитика данных демо аккаунта Google Merchandise Store за Январь-Апрель 2017
 
 Инструменты: SQL-запросы в BigQuery, объединение запросов и обработка – в Google Colab на Python
 
